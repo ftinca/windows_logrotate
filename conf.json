@@ -1,0 +1,15 @@
+{
+  "MaxLogSizeMB": 10,
+  "Config": [
+    {
+      "LogPath": "C:/Path1",
+      "CompressionDays": 1,
+      "DeletionDays": 90
+    },
+    {
+      "LogPath": "C:/Path2",
+      "CompressionDays": 3,
+      "DeletionDays": 30
+    }
+  ]
+}
